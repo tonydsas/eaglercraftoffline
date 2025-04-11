@@ -10,4 +10,3 @@ Files:
 6. 1.3
 7. 1.2.6
 8. Indev
-9. Scratch Edition
