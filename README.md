@@ -1,4 +1,4 @@
-# Eaglercraft-1.12.2
+# Offline-Eaglercraft-Collection
 This repository is a (in)complete Eaglercraft file collection. All of these files work offline. Eaglercraft is a open-source Minecraft client that runs entirely in a web browser using JavaScript. It allows users to play Minecraft, without needing to download a separate client. This makes it accessible on various devices, including Chromebooks. It's developed and maintained by lax1dude, and the source code is open-source, allowing others to contribute and modify it, but this edition was not created by lax1dude. The 1.9 file does work, but I don't know why it has the current textures unlike the 1.12.2 file. Your welcome, in advance.
 
 Files:
