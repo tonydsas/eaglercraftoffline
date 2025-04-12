@@ -3,10 +3,11 @@ This repository is a (in)complete Eaglercraft file collection made by me. All of
 
 Files:
 1. 1.12.2
-2. 1.9.2
-3. 1.8.8
-4. 1.5.2
-5. 1.7.3
-6. 1.3
-7. 1.2.6
-8. Indev
+2. 1.11
+3. 1.9.2
+4. 1.8.8
+5. 1.5.2
+6. 1.7.3
+7. 1.3
+8. 1.2.6
+9. Indev
